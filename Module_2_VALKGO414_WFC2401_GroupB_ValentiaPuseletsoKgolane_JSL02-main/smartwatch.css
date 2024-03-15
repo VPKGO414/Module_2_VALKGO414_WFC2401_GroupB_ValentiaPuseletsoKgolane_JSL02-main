@@ -1,0 +1,24 @@
+/*body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f0f0f3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background 0.3 ease, color 0.3 ease; /* Smooth transition for background and color changes
+}
+
+#watch-container {
+    border-radius: 50px;
+    background: linear-gradient(145deg, #5f9ea0, #008b8b);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+    color: #ffffff;
+    text-align: center;
+}*/
+
